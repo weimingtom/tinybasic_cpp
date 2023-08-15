@@ -14,6 +14,7 @@ https://github.com/dremwilly/CANBas
 (only exe, source not complete) 编程高手箴言_第四章  
 (support mingw, TinyBASIC.c) https://github.com/amihart/MIPSelBinaries  
 (only support DOSBOX Turbo C 2.0, TC2) https://github.com/noczero/PASCAL-DAP/blob/master/Tubes/References/HPSource/Source16/C/BAS-INT/BAS-INT.C  
-* mod version  
+* mod version (better than turbo c version, but need some mod for modern c compiler)  
+https://github.com/amihart/MIPSelBinaries/blob/main/src/TinyBASIC.c  
 https://github.com/weimingtom/tinybasic_csharp/blob/master/vendor/TinyBASIC.c.txt  
 https://gist.github.com/pmachapman/661f0fff9814231fde48  
